@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Проект 7\6\Source.cpp(9,23): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\user\source\repos\Проект 7\6\Source.cpp(17,28): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  6.vcxproj -> C:\Users\user\source\repos\Проект 7\Debug\6.exe

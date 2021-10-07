@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Проект 7\5\Source.cpp(5,14): warning C4101: x: неиспользованная локальная переменная
+  5.vcxproj -> C:\Users\user\source\repos\Проект 7\Debug\5.exe
