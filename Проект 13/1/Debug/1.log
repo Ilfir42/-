@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Проект 13\1\Source.cpp(7,2): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\Проект 13\1\Source.cpp(7,33): warning C4305: +=: усечение из "double" в "float"
+  1.vcxproj -> C:\Users\user\source\repos\Проект 13\Debug\1.exe
